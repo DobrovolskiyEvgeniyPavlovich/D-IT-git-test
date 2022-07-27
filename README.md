@@ -21,3 +21,5 @@ practice
  копируем ссылку на картинку 
  (http://cdn.eksmo.ru/v2/ASE000000000827304/COVER/cover3d1.jpg)
   картинка не появляется в тексте ?
+ создаем картинку в тексте 
+ ![cover3d1](https://user-images.githubusercontent.com/110053633/181295659-bbc67f70-d676-420a-a54e-abe648a61556.jpg)
